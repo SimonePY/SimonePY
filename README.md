@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @SimonePY
 - 👀 I’m interested in ...
- 1.Discord Bot Developing.
+ 1.Python Software.
 - 🌱 I’m currently learning ...
  1.Python.
- 2 SQL
 - 💞️ I’m looking to collaborate on ...
- 1.Poltics & War Discord Bot
+ 1.Open Source Projects.
 - 📫 How to reach me ...
  1.Discord (Simons#7609).
 <!---
