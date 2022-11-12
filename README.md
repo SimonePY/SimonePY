@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonepy" alt="simonepy" /></a> </p>
 
-- 🔭 I’m currently working on [Rizla](https://github.com/Rizla-Bot/Rizla)
+- 🔭 I’m currently working on [HackerRank](https://github.com/SimonePY/HackerRank)
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **simonestranieri2518@gmail.com**
 
@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/simone stranieri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simone stranieri" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/simonepy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="simonepy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/stranierisimone1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stranierisimone1" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/eqtxnUe76g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eqtxnUe76g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
