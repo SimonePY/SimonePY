@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MyPortfolio](https://github.com/SimonePY/MyPortfolio)
 
-- 🌱 I’m currently learning **Java** **Laravel**
+- 🌱 I’m currently learning **Java** , **Laravel**
 
 - 📫 How to reach me **simonestranieri2518@gmail.com**
 
