@@ -5,16 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonepy" alt="simonepy" /></a> </p>
 
-- 🔭 I’m currently working on [Rizla](https://github.com/SimonePY/Rizla)
+- 🔭 I’m currently working on [MyPortfolio](https://github.com/SimonePY/MyPortfolio)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** **Laravel**
 
 - 📫 How to reach me **simonestranieri2518@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simone stranieri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simone stranieri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/simonepy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="simonepy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/stranierisimone1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stranierisimone1" height="30" width="40" /></a>
 </p>
 
