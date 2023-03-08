@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonepy" alt="simonepy" /></a> </p>
 
-- 🔭 I’m currently working on [MyPortfolio](https://github.com/SimonePY/MyPortfolio)
+- 🔭 I’m currently working on [Rizla](https://github.com/SimonePY/Rizla)
 
-- 🌱 I’m currently learning **Java** , **Laravel**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **simonestranieri2518@gmail.com**
 
